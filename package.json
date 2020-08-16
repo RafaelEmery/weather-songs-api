@@ -1,0 +1,18 @@
+{
+  "name": "weather-songs-api",
+  "version": "1.0.0",
+  "description": "API for getting playlists for each city weather",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "RafaelEmery",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
